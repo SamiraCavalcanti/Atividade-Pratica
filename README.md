@@ -85,7 +85,7 @@ Esta atividade tem como objetivo configurar um servidor Jenkins atualizado em um
 ![jenkins4](https://github.com/user-attachments/assets/6e8263c6-a8a4-4153-9b06-907c4e96d0f3)
 
 
-6. Teste de uma simple pipeline
+6. Teste de uma simples pipeline
  ![teste](https://github.com/user-attachments/assets/97baeda4-01cf-45cf-aa16-1a9bd66bbc55)
 
 
