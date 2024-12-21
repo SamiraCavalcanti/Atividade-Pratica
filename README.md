@@ -78,7 +78,7 @@ Esta atividade tem como objetivo configurar um servidor Jenkins atualizado em um
    sudo cat /root/.jenkins/secrets/initialAdminPassword
    ```
 
-5. Configurei o Jenkins com as credenciais administrativas e siga os passos iniciais.
+5. Configurei o Jenkins com as credenciais administrativas e sigui os passos iniciais.
 ![jenkins3](https://github.com/user-attachments/assets/d5e327e9-ee00-469e-8387-485897f61940)
 ![jenkins2](https://github.com/user-attachments/assets/b2793394-a56a-425e-b300-6795f6c44fe0)
 ![nova-credenciais](https://github.com/user-attachments/assets/0522070f-0ac9-4a05-a740-9e5c834fd4f1)
